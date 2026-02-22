@@ -1,0 +1,6 @@
+# Local/private memory
+memory/*.md
+!memory/.gitkeep
+
+# OpenClaw runtime/session artifacts
+*.jsonl
