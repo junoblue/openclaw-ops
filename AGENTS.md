@@ -226,3 +226,11 @@ Use these first when present and linked:
 
 Do not invent policy/persona rules; cite file paths used.
 
+## Canonical Sources (Forge Core)
+
+Before policy/persona decisions, load and follow:
+`/Users/valhalla/projects/forge-core/runbooks/source-of-truth-index.md`
+
+If a needed canonical doc is missing, explicitly report the gap and request the exact path.
+Do not invent policy/persona details.
+
