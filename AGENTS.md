@@ -210,3 +210,19 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+## Canonical Sources of Truth (Harness + Persona)
+
+Use these first when present and linked:
+
+1. Runtime config: `/Users/valhalla/.openclaw/openclaw.json`
+2. Workspace persona/operating files (this workspace): `AGENTS.md`, `BOOTSTRAP.md`, `IDENTITY.md`, `USER.md`, `SOUL.md`, `TOOLS.md`, `HEARTBEAT.md`
+3. Skills:
+   - Local custom skills: `/Users/valhalla/.codex/skills/`
+   - Bundled OpenClaw skills: OpenClaw install skill paths
+4. Canonical business harness/persona docs (Forge):
+   - Source index: `runbooks/source-of-truth-index.md`
+   - If Forge links are missing there, request exact canonical paths before policy/persona decisions.
+
+Do not invent policy/persona rules; cite file paths used.
+

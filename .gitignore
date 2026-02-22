@@ -4,3 +4,4 @@ memory/*.md
 
 # OpenClaw runtime/session artifacts
 *.jsonl
+.openclaw/
